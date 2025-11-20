@@ -1,0 +1,21 @@
+{
+    "name": "JSON to CSV Converter",
+    "short_name": "toCSV",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F5F5F7",
+    "theme_color": "#FFFFFF",
+    "description": "Convert JSON to CSV securely in your browser.",
+    "icons": [
+        {
+            "src": "https://via.placeholder.com/192/0071E3/FFFFFF?text=CSV",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/512/0071E3/FFFFFF?text=CSV",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
